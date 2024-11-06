@@ -126,14 +126,14 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Intern At CodeClause',
-    company_name: 'CodeClause',
+    title: 'LMR',
+    company_name: 'BH',
     icon: l7,
     iconBg: '#ffffff',
     date: 'February 2024 - March 2024',
     points: [
-      'I worked on 2 three individual projects and 1 with my team member ',
-      'Projects included a music player , an image gallery and the last one was a collaborative project it was a  file sharing platform',
+      'Wilson Street Horror Show ',
+      'Good & Bad Apples',
       ,
     ],
   },
